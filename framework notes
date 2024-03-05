@@ -1,0 +1,28 @@
+Framework notes
+Types:
+1.TDD:test driven development
+2.BDD:behavior driven development
+
+Integrations:
+1.java
+2.Maven
+3.Selenium
+4.TestNG
+5.apache POI
+6.Github
+7.Jenkins
+
+Design pattern:
+1.POM:page object model
+
+
+Naming conventions while creating a package:
+pkg:reverse of company domain
+ex:com.facebook.testcases
+
+cls name:Student....starts with capital
+Variable and methods:Camel Case
+
+
+src/main/java--will contain logic nd selenium code
+src/test/java--will contain only test cases nd testing code
